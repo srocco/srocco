@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sebastián Rocco
 =======================================================================================================================================
 
-Software Arquitect & Co-Founder Movizen & Consultan / Speaker / Trainer
+Software Arquitect & Co-Founder Movizen & Consultant / Speaker / Trainer
 -----------------------------------------------------------------------
 
 Systems Engineer and Microsoft Certified Professional with more than 15 years of experience in the software industry. Leadership of work teams. Knowledge of several programming languages and development tools mainly in .Net technologies. Always interested in learning about new technologies to provide better services.
